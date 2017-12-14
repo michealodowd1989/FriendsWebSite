@@ -1,0 +1,154 @@
+@charset "utf-8";
+
+#wrapper   {
+	width:1020px;
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: white;
+	height: 100%;
+
+}
+
+#main   {
+	width:72%
+	height:250px;
+	padding:25px
+	float:left;
+	
+}
+#sidebar {
+	width:22%;
+	height:250px;
+	padding:25px;
+	float:right;
+}
+
+body{
+	background-color: #f3dddd;
+}
+
+footer {
+	padding:15px 0px 15px 0px;
+	clear:both;
+	margin-top: 20px;
+	float: right;
+	width: 100%;
+}
+
+.dropdown_margin{
+	margin-top: 7px;
+	padding-right: 5px;
+}
+
+
+.friendsMainPic{
+	margin-left: 5%;
+	float: left;
+}
+
+.mainTextAbout{
+	width: 37%;
+	float: right;
+	font-size: 20px;
+	text-align: left;
+	margin-right: 10%;
+	font-family: kabel;
+}
+
+.mainHeader{
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+.castPics{
+	margin-top: 3%;
+	margin-left: 30%;
+}
+
+.castName{
+	margin-left: 25%;font-family: kabel;
+	font-size: 25px;
+
+}
+
+.videoBorder1{
+	border-bottom: 2px red solid;
+}
+
+iframe{
+	margin-top: 20px;
+	margin-left: 30%;
+	border: 5px #222 solid;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.castInfoText{
+	margin-top: 20px;
+	margin-left: 25%;
+	width: 60%;
+	font-size: 25px;
+	text-align: left;
+	font-family: kabel;
+}
+
+.form{
+	margin-right:35%;
+	margin-left:35%;
+}
+
+.penImage{
+	margin-bottom: 5%;
+	text-align: center;
+}
+
+.movingPics{
+	float: left;
+	width: 50%;
+
+}
+
+.seasonText{
+	font-size: 20px;
+margin-left: 2%;
+margin-right: 2%;
+margin-bottom: 40px;
+font-family: kabel;
+
+}
+
+.seasonHeaders{
+	text-align:center;
+	font-family: kabel;
+}
+
+.collapseSeason{
+	margin-left: 10%; 
+	margin-right: 10%;
+}
+
+.seasonImage{
+	margin-left: 8%;
+	margin-bottom: 5%;
+}
+
+.myMap{
+	margin-left: -43%;
+}
+
+.siteMapWell{
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+.siteMapGroupList{
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align: center;
+	width: 40%;
+}
+
+.submitButton{
+	margin-left: 10%;
+	margin-bottom: 20px;
+}
